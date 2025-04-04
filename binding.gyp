@@ -7,9 +7,6 @@
           "sources": [
             "src/winregistry.cc"
           ],
-          "msvs_configuration_attributes": {
-            "SpectreMitigation": "Spectre"
-          },
           "msvs_settings": {
             "VCCLCompilerTool": {
               "AdditionalOptions": [
